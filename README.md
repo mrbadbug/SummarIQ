@@ -4,7 +4,7 @@
 Automatically generate readable and concise summaries from long text.
 
 **Approach:** 
--Preprocess input text and split long documents into smaller chunks.
+ - Preprocess input text and split long documents into smaller chunks.
 -Summarize each chunk using a **BART transformer model**.
 -Merge the summaries into a final, coherent output.
 
