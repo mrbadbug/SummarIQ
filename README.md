@@ -1,4 +1,5 @@
-**SummarIQ: NLP-Based Text Summarization** is a Python project that performs **abstractive text summarization** using **pre-trained transformer models**. It can generate concise summaries from long documents or articles. The project uses the **CNN/DailyMail dataset** for testing purposes, but **no training is required**, as the summarization model is pre-trained.
+# SummarIQ: NLP-Based Text Summarization
+It is a Python project that performs **abstractive text summarization** using **pre-trained transformer models**. It can generate concise summaries from long documents or articles. The project uses the **CNN/DailyMail dataset** for testing purposes, but **no training is required**, as the summarization model is pre-trained.
 
 **Objective:**
  - Automatically generate readable and concise summaries from long text.
