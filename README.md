@@ -33,7 +33,7 @@ It is a Python project that performs **abstractive text summarization** using **
  - Large CSV files (train/validation) are not included to keep the repository lightweight and GitHub-friendly.
 
 **Installation**
- - Clone the repository: git clone https://github.com/<USERNAME>/SummarIQ.git
+ - Clone the repository: git clone https://github.com/mrbadbug/SummarIQ.git
  - cd SummarIQ
  - pip install -r requirements.txt
 
